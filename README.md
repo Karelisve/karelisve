@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi there👋 Welcome to my github</h1>
 
 ###
@@ -73,9 +74,5 @@
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG84Y3Foa2czbHU4ZGZ5b2F1ampkb3I2cmdrMjNrbnltcjQ3NnY0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ssq8oGi0pPO5rMLrEV/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/karelisve/karelisve/output/snake.svg" alt="Snake animation" />
 
 ###
