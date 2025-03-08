@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there👋 Welcome to my github</h1>
+<h1 align="left">Hi there👋 Welcome to my Github</h1>
 
 ###
 
